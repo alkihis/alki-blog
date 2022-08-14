@@ -1,0 +1,20 @@
+services:
+  blog:
+    stdin_open: true
+    tty: true
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: alki_blog
+    restart: always
+    command: "hexo server"
+    ports:
+      - 5001:4000
+    volumes:
+      - .:/app
+    networks:
+      - default
+
+networks:
+  default:
+    driver: bridge
