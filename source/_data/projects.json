@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Archive Explorer",
+    "url": "https://archive-explorer.com/",
+    "desc": "Explorez vos tweets, redécouvrez ceux d'antan et supprimez les publications gênantes"
+  },
+  {
+    "name": "QuestionIt.space",
+    "url": "https://questionit.space/",
+    "desc": "Un outil de question/réponse lié à votre compte Twitter"
+  },
+  {
+    "name": "twitter-api-v2",
+    "url": "https://github.com/plhery/node-twitter-api-v2",
+    "desc": "Bibliothèque de manipulation de l'API Twitter v1.1/v2"
+  }
+]
