@@ -15,7 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  articles: /archives/
+  articles: /articles/
   projects: http://github.com/alkihis
   tag: /tags/
   category: /categories/
