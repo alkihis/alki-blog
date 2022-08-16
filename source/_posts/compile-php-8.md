@@ -1,6 +1,7 @@
 ---
 title: Compiler, installer et découvrir PHP 8 sur macOS / Debian
-date: 2022-08-14 12:53:53
+date: 2020-11-16 12:53:53
+slug: compile-php-8
 tags:
   - PHP
 categories:

@@ -1,6 +1,7 @@
 ---
 title: Le blog est de retour !
 date: 2022-08-14 11:51:21
+slug: welcome-back
 tags:
   - Général
   - Discussion
